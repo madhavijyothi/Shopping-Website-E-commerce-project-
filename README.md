@@ -1,0 +1,4 @@
+# Shopping-Website-E-commerce-project-
+Complete Selenium framework from starting - E-Commerce Application  
+Topic: How to Develop a Selenium Hybrid Automation Framework From Scratch  GitHub URL: https://github.com/hverma22/MyProject 
+TOPICS :Framework Architecture . Navigation and Manual Test Cases Update the POM.xml Create Config.properties File Create BaseClass and ActionDriver class .Write page objects and methods in page classes.Create Test class and write test cases .Create Test class and write test cases- completed.Log4j Implementation Data Driven Testing – Supply the data from excel sheet Run all the test cases through testng.xml Grouping of test cases – Smoke, Sanity ,Regression Cross Browser and Parallel Execution.Extent Report, Listener and Screenshots and SCM - Git and GitHub. CI Integration and Run Project Through Jenkins – Generate report, send email etc
